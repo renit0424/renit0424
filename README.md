@@ -1,6 +1,3 @@
-<h3>そこら辺のあほプログラマー </br>VTuberとかよくみてます。 C#好きですが最近はPythonに浮気してます。</h3>
-
-
 <p>2014 C#</p>
 <p>2018 Python</p>
 <p>2020 javaScript,Node.js,leaflet,PHP</p>
